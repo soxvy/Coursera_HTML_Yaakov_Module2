@@ -2,4 +2,4 @@
 
 Assignment module 2:
 - [instructions](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment2/Assignment-2.md)
-- website:
+- website: https://soxvy.github.io/Coursera_HTML_Yaakov_Module2/
